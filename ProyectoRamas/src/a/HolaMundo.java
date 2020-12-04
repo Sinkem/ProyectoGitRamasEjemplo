@@ -8,6 +8,6 @@ public class HolaMundo {
 	}
 	
 	public static void imprimeSaludo() { 
-		System.out.println(“Hei”);	
+		System.out.println("Hei");	
 	}
 }
